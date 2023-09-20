@@ -1,0 +1,16 @@
+#paused {
+    color: white;
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    /*
+    left: 100px;
+    top: 100px;
+    */
+    
+    /*margin: 0 auto;  Center it */
+}
+#canvas {
+    border: 1px solid #d3d3d3;
+    color: #d3d3d3;
+}
